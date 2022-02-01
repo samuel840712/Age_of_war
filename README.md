@@ -1,5 +1,5 @@
-# Age_of_war
-board game
+# Age_of_war (Board Game)
+
 It is a game to attack castle.
 The rule is:
 First you roll the dices(7 dices). Then choose a castle you want to attack. Every castle has their condition to do. So, you must match its conditions.
